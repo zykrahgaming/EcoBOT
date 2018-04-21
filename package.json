@@ -1,0 +1,23 @@
+{
+  "name": "Economy Bot",
+  "version": "0.0.1",
+  "description": "Discord Economy Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "ms": "^2.1.1",
+    "node-latest": "^3.1.0",
+    "npm": "^5.7.1",
+    "parse-ms": "^1.0.1",
+    "quick.db": "^5.5.1",
+    "sqlite": "^2.9.1",
+    "sqlite3": "^3.1.13",
+    "string-similarity": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
